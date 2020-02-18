@@ -1,0 +1,20 @@
+{
+    "develop": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-awsmobileappsyncchat-develop-224533-authRole",
+            "UnauthRoleArn": "arn:aws:iam::902972440192:role/amplify-awsmobileappsyncchat-develop-224533-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::902972440192:role/amplify-awsmobileappsyncchat-develop-224533-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-awsmobileappsyncchat-develop-224533-deployment",
+            "UnauthRoleName": "amplify-awsmobileappsyncchat-develop-224533-unauthRole",
+            "StackName": "amplify-awsmobileappsyncchat-develop-224533",
+            "StackId": "arn:aws:cloudformation:eu-west-1:902972440192:stack/amplify-awsmobileappsyncchat-develop-224533/d7a355a0-51ce-11ea-a848-06ac9a67575a",
+            "AmplifyAppId": "d3vqr612lmu1yr"
+        },
+        "categories": {
+            "auth": {
+                "awsmobileappsyncchat6bd5e98a": {}
+            }
+        }
+    }
+}
